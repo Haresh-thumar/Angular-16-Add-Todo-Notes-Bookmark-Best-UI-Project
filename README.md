@@ -23,5 +23,5 @@ ng serve
 
 ```
 
-3. Open your browser and navigate to `http://localhost:4200` to access the Dashboard Web Application.
+3. Open your browser and navigate to `http://localhost:4200` to access this Application.
 ```
