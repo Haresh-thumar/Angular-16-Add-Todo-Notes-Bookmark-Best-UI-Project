@@ -4,26 +4,22 @@
 - The application is built using HTML5, CSS3, TypeScript, and Angular 16 framework.
 - It provides CRUD operations (GET, POST, UPDATE, DELETE) for data management and utilizes local storage to persist user data.
 
-## Getting Started
+## Install Dependencies
+```
+
+1. npm i
+
+```
+## Compile Application
+```
+
+2. ng serve && ng serve --o
 
 ```
 
-1. Install dependencies:
+## Run Application on Browser
 
 ```
 
-cd dashboard-web-application
-npm install
-
-```
-
-2. Run the application:
-
-```
-
-ng serve
-
-```
-
-3. Open your browser and navigate to `http://localhost:4200` to access this Application.
+3. http://localhost:4200
 ```
